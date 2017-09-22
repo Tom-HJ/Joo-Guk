@@ -2,7 +2,7 @@
 Makers guild's Monocopter GCS program.
 
 developed by Kim Hyunjun, Lee Suhyeon, Kim Dongseok, Park Jaewan
-This program follow CC-BY-NC-SA license.
+This program follow GNU-GPL V 3.0 license.
 Copyright by Makers guild (c) 2016
 *********************************************************************/
 
