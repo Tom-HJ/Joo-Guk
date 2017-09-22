@@ -8,7 +8,7 @@
     * Infos, updates, bug reports and feedback:
     * https://github.com/DroneDeveloper/Joo-Guk 
     * 
- * @details Control Android native plugin.
+ * @details Main monocopter firmware.
  * @author Park Jaewan, Lee Suhyeon, Kim Hyunjun
  * @date 2017-09-22
  * @version 0.0.1
